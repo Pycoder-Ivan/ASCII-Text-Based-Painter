@@ -1,13 +1,4 @@
 /*
-    Final Project
-
-    Group Members
-    1. Almaden, Aliya Beyonce
-    2. Cadorna, Ferdinand
-    3. Esteban, Erin Mikaela
-    4. Libao, Lorenz Christian
-    5. Lopez, Ivan Reeve
-
     IMPORTANT
     This program has audio in .wav format and it requires additional steps to initialize
 
@@ -19,9 +10,8 @@
 
     3. Upon opening the workspace, go to settings > compiler > linker settings > Other linker options, then type -lwinmm . Click OK.
     4. Build and run the program.
-
-
 */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>
