@@ -6,7 +6,7 @@
 ## 📝 Project Description
 _NOTE: Not an actual pixel editor_
 
-A terminal application that renders its own "virtual pixels", with editing and exporting capabilities. It aims to replicate how a pixel editor functions, but uses its own system for rendering a canvas and storing it in a file. This project is a part of our final requirement for the subject: Computer Programming I. Written in pure C.
+A terminal application that renders its own "virtual pixels", with editing and exporting capabilities. It aims to replicate how a pixel editor functions, but uses its own system for rendering a canvas and serialization. Submitted as final requirement for the subject: Computer Programming I. Written in pure C.
 
 ## Compatibility
 The project is currently exclusive for the Windows Platform, because it is using the Windows API for some of its functionalities.
