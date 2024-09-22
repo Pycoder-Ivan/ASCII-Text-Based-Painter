@@ -2,6 +2,9 @@
 ## Project Description
 _NOTE: Not an actual pixel editor_
 
+## Demo
+[DEMO](https://youtu.be/CMBj0DQxj9U?si=X8ti9zpR8Fhrw0Te)
+
 A terminal application that renders its own "virtual pixels", with editing and exporting capabilities. It aims to replicate how a pixel editor functions, but uses its own system for rendering a canvas and storing it in a file. This project is a part of our final requirement for the subject: Computer Programming I. Written in pure C.
 
 ## Compatibility
