@@ -1,7 +1,7 @@
 # ASCII Pixel Editor
 
 ## 🎥 Demo
-[![DEMO](https://img.youtube.com/vi/X8ti9zpR8Fhrw0Te/0.jpg)](https://youtu.be/CMBj0DQxj9U?si=X8ti9zpR8Fhrw0Te)
+![![DEMO](https://img.youtube.com/vi/X8ti9zpR8Fhrw0Te/0.jpg)](https://youtu.be/CMBj0DQxj9U?si=X8ti9zpR8Fhrw0Te)
 
 ## 📝 Project Description
 _NOTE: Not an actual pixel editor_
